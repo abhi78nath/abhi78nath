@@ -46,14 +46,14 @@
 
 
 &nbsp;
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhi78nath&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="abhi78nath"/></p>
+<p align="center"><img align="center" style="width: 47%" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhi78nath&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="abhi78nath"/></p>
 &nbsp;
 
 
 <div style="display: flex; flex-direction: row; justify-content: space-around;">
- <img class="img" src="https://github-readme-stats.vercel.app/api?username=abhi78nath&show_icons=true&locale=en&theme=gruvbox" alt="abhi78nath" />
+ <img class="img" style="width: 47%" src="https://github-readme-stats.vercel.app/api?username=abhi78nath&show_icons=true&locale=en&theme=gruvbox" alt="abhi78nath" />
  &nbsp;
  &nbsp;
- <img class="img" src="https://github-readme-streak-stats.herokuapp.com/?user=abhi78nath&theme=gruvbox" alt="abhi78nath" />
+ <img class="img" style="width: 47%" src="https://github-readme-streak-stats.herokuapp.com/?user=abhi78nath&theme=gruvbox" alt="abhi78nath" />
 </div>
 

@@ -58,3 +58,14 @@
  <img class="img" style="width: 47%" src="https://github-readme-streak-stats.herokuapp.com/?user=abhi78nath&theme=gruvbox" alt="abhi78nath" />
 </div>
 
+<!--🐍📈SNAKEGRAPH / 🌐WEBSITE: https://github.com/Platane/snk -->
+<div align="center">
+    <h2 align="center">Snake eating my Contribution <img src="https://github.com/Rachit-Pal/Rachit-Pal/blob/main/resources/Neko-03.gif" width="30px"></h2>
+    <img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg" width="100%">
+</div>
+
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{ares524}/count.svg" /></p> 
+</div>
+

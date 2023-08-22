@@ -66,6 +66,6 @@
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{ares524}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{abhi78nath}/count.svg" /></p> 
 </div>
 

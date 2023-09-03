@@ -7,7 +7,6 @@
 
 - 📫 How to reach me **abhishek78nath@gmail.com**
 
-- ⚡ Fun fact **I exist😅**<br><br>
 
 
 

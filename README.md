@@ -14,7 +14,7 @@
 <p align="center">
 <a href="https://linkedin.com/in/abhishek nath" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="abhishek nath" height="30" width="40" /></a>
 <a href="https://www.facebook.com/abhi.nath.71653318" target="blank"><img align="center" src="https://img.icons8.com/color/512/facebook-new.png" alt="abhishek nath" height="30" width="40" /></a>
-<a href="https://codesandbox.com/abhishek78nath" target="blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/512/external-codesandbox-an-online-code-editor-and-sharing-web-application-projects-logo-filled-tal-revivo.png" alt="abhishek78nath" height="30" width="40" /></a>
+<!-- <a href="https://codesandbox.com/abhishek78nath" target="blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/512/external-codesandbox-an-online-code-editor-and-sharing-web-application-projects-logo-filled-tal-revivo.png" alt="abhishek78nath" height="30" width="40" /></a> -->
 <a href="https://instagram.com/not_real_abhi" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="not_real_abhi" height="30" width="40" /></a>
 </p>
 

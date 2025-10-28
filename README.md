@@ -68,12 +68,4 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{abhi78nath}/count.svg" /></p> 
 </div>
 
-<h3 align="center">🕒 Commit Activity Insights</h3>
-<p align="center">
-  <img 
-    src="https://github-widget-yvrb.onrender.com/api/chart/abhi78nath/canvas" 
-    alt="Commit Activity Chart"
-    width="90%"
-  />
-</p>
 
